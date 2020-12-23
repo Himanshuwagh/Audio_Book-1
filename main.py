@@ -16,6 +16,6 @@ for num in range(9, pages):
  page = pdf_reader.getPage(num)
  text = page.extractText()
  speaker.say(text)
+# this will  wait after saying text
  speaker.runAndWait()
 
- #hiiamkdfnrn
