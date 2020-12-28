@@ -19,3 +19,4 @@ for num in range(9, pages):
 # this will  wait after saying text
  speaker.runAndWait()
 
+jkjbhbbnb
